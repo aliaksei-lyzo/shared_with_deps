@@ -1,0 +1,11 @@
+{
+  "name": "shared_with_deps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aliaksei-lyzo/shared_with_deps.git",
+  "author": "Aleksey Lyzo <lyzo.alex@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
